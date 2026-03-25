@@ -6,15 +6,15 @@ It is a centralized repository of data science projects, automated reporting sys
 
 🚀 Key Projects
 This project showcases my ability to manage the full data lifecycle: from **SQL-based data refinery** to **statistical modeling in R** and final **UI/UX deployment**.
-##🌾 Agricultural Visualization Dashboard
+## 🌾 Agricultural Visualization Dashboard
 • The Problem: Fragmented soil health data and seasonal trends made planting decisions difficult.
 • The Solution: Developed an interactive dashboard to track soil metrics and crop performance over time.
 • Tech Stack: R, Shiny, ggplot2, tidyverse.
-##🛡️ Sector Risk & Operational Analysis
+## 🛡️ Sector Risk & Operational Analysis
 • The Problem: Identifying hidden bottlenecks and risk factors in large, sector-specific datasets.
 • The Solution: Applied regression models and data cleaning workflows to pinpoint operational inefficiencies and predict future trends.
 • Tech Stack: dplyr, tidyr, stringr, stats.
-##⚡ Automated Reporting Engine
+## ⚡ Automated Reporting Engine
 • The Problem: Manual data entry and report generation were prone to error and time-consuming.
 • The Solution: Built an end-to-end automation script that cleans raw data and generates a polished summary report instantly.
 • Tech Stack: R Markdown, knitr, lubridate.
