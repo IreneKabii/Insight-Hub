@@ -43,5 +43,6 @@ Insight-Hub/
 └── README.md          # Project documentation
 
 📬 Contact
-Njoki www.linkedin.com/in/irenekabii
+Njoki (0742413625)
+LinkeIn:www.linkedin.com/in/irenekabii
 njokikabii894@gmail.com
